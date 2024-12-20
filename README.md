@@ -16,7 +16,7 @@ This project is a basic implementation of JWT (JSON Web Token) authentication us
 - MongoDB: NoSQL database.
 - dotenv: Manage environment variables.
 
-🛠️Set up environment variables:
+###🛠️Set up environment variables:
 ```
 PORT=3000
 MONGO_URI=your_mongo_connection_string
