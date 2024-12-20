@@ -15,7 +15,7 @@ This project is a basic implementation of JWT (JSON Web Token) authentication us
 - Express.js: Web framework.
 - MongoDB: NoSQL database.
 - dotenv: Manage environment variables.
-  
+
 🛠️Set up environment variables:
 ```
 PORT=3000
