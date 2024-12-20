@@ -8,7 +8,7 @@ This project is a basic implementation of JWT (JSON Web Token) authentication us
 - ⚙️**Middleware**: Custom middleware for authentication, error handling, and 404 responses.
 - 📂**Static Files**: Serves static files from the `public` folder.
 - 🌐**Environment Variables**: Configurable via `.env`.
-- 
+  
 ## Technologies Used⚡
 
 - Node.js: JavaScript runtime.
